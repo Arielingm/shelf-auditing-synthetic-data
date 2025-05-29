@@ -26,9 +26,9 @@ The `anexos/` folder includes a full list of all SKUs used in this project, alon
 
 This repository introduces two main datasets:
 
-### 🔹 RealSynthDet-15K
+### 🔹 SynthDet
 
-A detection dataset consisting of 15,000 synthetically rendered images containing multiple SKUs placed across a variety of shelving scenarios. This dataset is used for training object detection models.
+A detection dataset consisting of 3,500 synthetically rendered images containing multiple SKUs placed across a variety of shelving scenarios. This dataset is used for training object detection models.
 
 ### 🔹 ProdSynth-20
 
@@ -39,6 +39,13 @@ A classification dataset with isolated SKU renders across various angles and lig
 - Maintaining SKU diversity and realism in renderings.
 - Balancing synthetic variability vs real-world constraints.
 - Integration of Blender and Python pipelines for scalable dataset generation.
+
+## 📥 Download the Datasets
+
+You can download the datasets using the following links:
+
+- **SynthDet**: [Download from zenodo](https://zenodo.org/uploads/15549047)
+- **ProdSynth-20**: [Download from zenodo](https://zenodo.org/records/15546553)
 
 ## 🙏 Acknowledgment
 
