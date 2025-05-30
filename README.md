@@ -44,7 +44,7 @@ A classification dataset with isolated SKU renders across various angles and lig
 
 You can download the datasets using the following links:
 
-- **SynthDet**: [Download from zenodo](https://zenodo.org/uploads/15549047)
+- **SynthDet**: [Download from zenodo](https://zenodo.org/records/15554670)
 - **ProdSynth-20**: [Download from zenodo](https://zenodo.org/records/15546553)
 
 ## 🙏 Acknowledgment
